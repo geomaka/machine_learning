@@ -1,2 +1,3 @@
-my_virtual_env
+.venv
 .ipynb_checkpoints
+kaggle.json
