@@ -1,0 +1,83 @@
+Country,Survey,Characteristic,Breastfed children 6-23 months fed both 4+ food groups and the minimum meal frequency,Number of breastfed children 6-23 months,Number of breastfed children 6-23 months (unweighted),Non-breastfed children 6-23 months fed milk or milk products,Non-breastfed children 6-23 months with 3 IYCF practices,Number of nonbreastfed children 6-23 months,Number of nonbreastfed children 6-23 months (unweighted),Children 6-23 months fed 5+ food groups,Children 6-23 months fed the minimum meal frequency,Children 6-23 months with 3 IYCF practices,Number of all children 6-23 months,Number of all children 6-23 months (unweighted)
+Kenya,2022 DHS,Total,33.3,1984,2269,51.9,20.4,517,554,36.9,70.9,30.7,2501,2823
+Kenya,2022 DHS,Sex : Male,33,989,1173,52.2,21.9,246,272,36.9,69.2,30.8,1236,1445
+Kenya,2022 DHS,Sex : Female,33.7,995,1096,51.7,19.1,270,282,37,72.6,30.5,1265,1378
+Kenya,2022 DHS,Residence : Urban,45,672,694,53.3,24.6,220,211,47.7,76.4,39.9,892,905
+Kenya,2022 DHS,Residence : Rural,27.4,1312,1575,50.9,17.3,296,343,30.9,67.9,25.5,1609,1918
+Kenya,2022 DHS,Education : No education,12.6,201,501,55.7,1,46,119,12.7,40.8,10.5,248,620
+Kenya,2022 DHS,Education : Primary,29.2,750,770,41.7,14.6,163,175,30,70.9,26.6,914,945
+Kenya,2022 DHS,Education : Secondary,33,701,678,51.2,23.9,179,166,41.3,72.4,31.2,880,844
+Kenya,2022 DHS,Education : Higher,55.9,331,320,64.6,29.9,128,94,55.3,84.3,48.6,460,414
+Kenya,2022 DHS,Education (2 groups) : No education or primary,25.7,952,1271,44.8,11.6,209,294,26.3,64.5,23.2,1161,1565
+Kenya,2022 DHS,Education (2 groups) : Secondary or higher,40.4,1033,998,56.8,26.4,307,260,46.1,76.5,37.2,1340,1258
+Kenya,2022 DHS,Wealth quintile : Lowest,13.9,478,786,38.7,11.6,96,157,16,56.6,13.5,574,943
+Kenya,2022 DHS,Wealth quintile : Second,26.4,363,388,38.6,11.4,95,102,29.7,65.7,23.3,457,490
+Kenya,2022 DHS,Wealth quintile : Middle,32.3,346,374,64.1,18.1,88,108,34.5,72.5,29.4,434,482
+Kenya,2022 DHS,Wealth quintile : Fourth,41.6,417,416,54.3,21,109,106,45.5,77.6,37.3,527,522
+Kenya,2022 DHS,Wealth quintile : Highest,56.2,381,305,61.3,34.7,128,81,60.3,83.4,50.8,508,386
+Kenya,2022 DHS,Age in months : 6-8,22.5,447,512,,,,7,22.9,76.2,22.2,451,519
+Kenya,2022 DHS,Age in months : 9-11,30,429,502,,,,24,36.9,69.1,30.2,444,526
+Kenya,2022 DHS,Age in months : 12-17,34.5,701,807,56.3,14.2,137,142,37.4,66.8,31.2,837,949
+Kenya,2022 DHS,Age in months : 18-23,46.7,408,448,49.4,22.3,361,381,44.6,73.3,35.3,769,829
+Kenya,2022 DHS,Counties : Nairobi (L1),54.7,206,48,,,,22,54,79.6,45,299,70
+Kenya,2022 DHS,Central,57.2,226,165,66.9,52.9,53,40,67.4,80.8,56.4,279,205
+Kenya,2022 DHS,Coast,21.4,171,281,27.8,6.4,49,70,23.5,60.6,18,219,351
+Kenya,2022 DHS,Eastern,28.6,279,368,49,18,31,50,33.5,67.7,27.5,310,418
+Kenya,2022 DHS,Nyanza,23.1,240,261,47.7,11.5,64,73,24,71.4,20.7,304,334
+Kenya,2022 DHS,Rift Valley,29.5,625,768,60.5,19.5,137,161,32.9,70.9,27.7,762,929
+Kenya,2022 DHS,Western,31.5,181,176,37.1,15.4,66,52,34.6,70.8,27.2,246,228
+Kenya,2022 DHS,North Eastern,11.2,57,202,80.9,10.6,25,86,11.5,43.7,11,82,288
+Kenya,2022 DHS,Counties : Mombasa (L1),27.6,43,35,,,,11,29.4,72.4,25.3,58,46
+Kenya,2022 DHS,Counties : Kwale (L1),17.2,31,44,,,,15,23.8,46.2,13.1,41,59
+Kenya,2022 DHS,Counties : Kilifi (L1),24.5,54,38,,,,14,20.7,67.9,19.4,70,52
+Kenya,2022 DHS,Counties : Tana River (L1),5.8,18,79,,,,16,11.5,29.4,4.9,21,95
+Kenya,2022 DHS,Counties : Lamu (L1),24.6,10,57,,,,8,41.3,47.8,22.5,10,65
+Kenya,2022 DHS,Counties : Taita Taveta (L1),17.5,15,28,,,,6,19,70.9,14,19,34
+Kenya,2022 DHS,Counties : Garissa (L1),12,23,63,,,,16,18.2,50.1,17.7,29,79
+Kenya,2022 DHS,Counties : Wajir (L1),10.3,11,57,82.6,3,7,31,8.8,62,7.4,18,88
+Kenya,2022 DHS,Counties : Mandera (L1),10.9,23,82,70.4,0,11,39,7.3,28.4,7.3,34,121
+Kenya,2022 DHS,Counties : Marsabit (L1),9.3,17,67,,,,12,13.5,54.8,9.7,19,79
+Kenya,2022 DHS,Counties : Isiolo (L1),10.8,14,68,,,,14,15.8,56.4,8.5,17,82
+Kenya,2022 DHS,Counties : Meru (L1),53.1,76,44,,,,3,54.2,75.9,49.5,81,47
+Kenya,2022 DHS,Counties : Tharaka-Nithi (L1),42.3,16,36,,,,6,65.8,58.1,40.8,18,42
+Kenya,2022 DHS,Counties : Embu (L1),72.9,20,30,,,,2,76.6,91.7,72.4,20,32
+Kenya,2022 DHS,Counties : Kitui (L1),3.7,53,48,,,,5,3.3,49.9,3.3,58,53
+Kenya,2022 DHS,Counties : Machakos (L1),22,42,30,,,,6,37.9,74.6,24.5,51,36
+Kenya,2022 DHS,Counties : Makueni (L1),10.1,43,45,,,,2,12.8,71,12,45,47
+Kenya,2022 DHS,Counties : Nyandarua (L1),52.6,26,40,,,,9,55.2,82.4,50.3,33,49
+Kenya,2022 DHS,Counties : Nyeri (L1),,,23,,,,10,62.7,68.7,39.4,32,33
+Kenya,2022 DHS,Counties : Kirinyaga (L1),65.9,27,32,,,,9,80.7,85.3,65.4,34,41
+Kenya,2022 DHS,Counties : Murang'a (L1),49.4,36,32,,,,4,59,77.5,50,41,36
+Kenya,2022 DHS,Counties : Kiambu (L1),62.6,114,38,,,,8,70.6,83.2,61.4,140,46
+Kenya,2022 DHS,Counties : Turkana (L1),2.2,38,76,,,,10,3.4,27.7,3.4,44,86
+Kenya,2022 DHS,Counties : West Pokot (L1),30.4,49,88,67.8,15.3,12,26,30.6,65,27.5,61,114
+Kenya,2022 DHS,Counties : Samburu (L1),13.7,18,75,,,,18,14.3,37.9,12,23,93
+Kenya,2022 DHS,Counties : Trans-Nzoia (L1),25.2,52,53,,,,11,29.4,58.6,25.2,60,64
+Kenya,2022 DHS,Counties : Uasin Gishu (L1),51.2,57,46,,,,12,44.2,91.2,44.2,73,58
+Kenya,2022 DHS,Counties : Elgeyo Marakwet (L1),21.8,20,45,,,,9,25.8,83.2,18.6,24,54
+Kenya,2022 DHS,Counties : Nandi (L1),13.6,36,41,,,,6,20.6,53.5,12.2,41,47
+Kenya,2022 DHS,Counties : Baringo (L1),36.1,30,56,,,,14,44.6,76.5,35.9,39,70
+Kenya,2022 DHS,Counties : Laikipia (L1),31.7,19,32,,,,7,32.8,77,32.8,24,39
+Kenya,2022 DHS,Counties : Nakuru (L1),36,103,49,,,,14,38.5,77.6,29.7,132,63
+Kenya,2022 DHS,Counties : Narok (L1),25.8,58,59,,,,11,37.2,78.8,29.2,72,70
+Kenya,2022 DHS,Counties : Kajiado (L1),21.9,56,46,,,,12,28.1,65.5,22.2,71,58
+Kenya,2022 DHS,Counties : Kericho (L1),51.6,48,52,,,,6,54.4,91.7,49.7,54,58
+Kenya,2022 DHS,Counties : Bomet (L1),21.7,40,50,,,,5,24.2,74,19.4,44,55
+Kenya,2022 DHS,Counties : Kakamega (L1),18,71,44,,,,17,19.2,58,15.4,102,61
+Kenya,2022 DHS,Counties : Vihiga (L1),44.7,21,45,,,,8,62.8,73.1,40.3,26,53
+Kenya,2022 DHS,Counties : Bungoma (L1),40,52,40,,,,16,41.5,81.7,33,74,56
+Kenya,2022 DHS,Counties : Busia (L1),38.1,36,47,,,,11,41.9,80.4,36.9,45,58
+Kenya,2022 DHS,Counties : Siaya (L1),18.7,34,41,,,,9,23,50.4,18.5,43,50
+Kenya,2022 DHS,Counties : Kisumu (L1),16.9,50,48,,,,12,15.1,68.9,13.5,62,60
+Kenya,2022 DHS,Counties : Homa Bay (L1),24.3,38,44,,,,16,21.6,89,21.6,50,60
+Kenya,2022 DHS,Counties : Migori (L1),38.5,48,54,,,,19,39.2,67.6,33.3,63,73
+Kenya,2022 DHS,Counties : Kisii (L1),16.2,52,43,,,,9,19.5,80.6,15.4,63,52
+Kenya,2022 DHS,Counties : Nyamira (L1),25.3,19,31,,,,8,25.9,64,22.3,22,39
+,,,,,,,,,,,,,,
+Breastfed children 6-23 months fed both 4+ food groups and the minimum meal frequency,Percentage of breastfed children age 6-23 months fed four or more food groups and the minimum meal frequency,,,,,,,,,,,,,
+Non-breastfed children 6-23 months fed milk or milk products,Percentage of non-breastfed children age 6-23 months fed milk or milk products,,,,,,,,,,,,,
+Non-breastfed children 6-23 months with 3 IYCF practices,Percentage of non-breastfed children age 6-23 months fed according to the 3 infant and young child feeding practices,,,,,,,,,,,,,
+Children 6-23 months fed 5+ food groups,"Percentage of children age 6-23 months fed five or more food groups. The food groups are a. breastmilk b. infant formula, milk other than breast milk, cheese or yogurt or other milk products; c. foods made from grains, roots, and tubers, including porridge and fortified baby food from grains; d. vitamin A-rich fruits and vegetables (and red palm oil); e. other fruits and vegetables; f. eggs; g. meat, poultry, fish, and shellfish (and organ meats); h. legumes and nuts.",,,,,,,,,,,,,
+Children 6-23 months fed the minimum meal frequency,Percentage of children age 6-23 months fed the minimum meal frequency defined as receiving solid or semi-solid food at least twice a day for infants 6-8 months and at least three times a day for children 9-23 months,,,,,,,,,,,,,
+Children 6-23 months with 3 IYCF practices,Percentage of children age 6-23 months fed according to the 3 infant and young child feeding practices,,,,,,,,,,,,,
+"ICF, 2015. The DHS Program STATcompiler. Funded by USAID. http://www.statcompiler.com. November 11 2024",,,,,,,,,,,,,,
